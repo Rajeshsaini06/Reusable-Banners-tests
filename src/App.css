@@ -12,13 +12,12 @@ body {
 }
 
 /* Write your code here. */
-.card-container {
+.app-container {
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
 }
-
 .card-list {
   display: flex;
   flex-direction: column;
